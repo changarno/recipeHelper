@@ -1,0 +1,37 @@
+StartRecipeIntent I would like to make {pizza|Food}
+StartRecipeIntent I would like to make {banana|Food}
+StartRecipeIntent I would like to make {tacos|Food}
+StartRecipeIntent I would like to make {pizza with ham and cheese|Food}
+StartRecipeIntent I would like to make {I don't know what I'm saying but sure|Food}
+StartRecipeIntent I would like to make a {pizza|Food}
+StartRecipeIntent I would like to make a {banana|Food}
+StartRecipeIntent I would like to make a {tacos|Food}
+StartRecipeIntent I would like to make a {pizza with ham and cheese|Food}
+StartRecipeIntent I would like to make a {I don't know what I'm saying but sure|Food}
+StartRecipeIntent I would like to make an {pizza|Food}
+StartRecipeIntent I would like to make an {banana|Food}
+StartRecipeIntent I would like to make an {tacos|Food}
+StartRecipeIntent I would like to make an {pizza with ham and cheese|Food}
+StartRecipeIntent I would like to make an {I don't know what I'm saying but sure|Food}
+StartRecipeIntent Find {pizza|Food}
+StartRecipeIntent Find {banana|Food}
+StartRecipeIntent Find {tacos|Food}
+StartRecipeIntent Find {pizza with ham and cheese|Food}
+StartRecipeIntent Find {I don't know but sure'|Food}
+StartRecipeIntent I want to make {sugar|Food}
+StartRecipeIntent I want to make {watermelons and fruits|Food}
+StartRecipeIntent I want to make {yay hello Alexa|Food}
+StartRecipeIntent I want to make {I don't know what else|Food}
+StartRecipeIntent I want to make {nice|Food}
+InRecipeIntent {read recipe|Item}
+InRecipeIntent {next ingredient|Item}
+InRecipeIntent {last ingredient|Item}
+InRecipeIntent {next step|Item}
+InRecipeIntent {last step|Item}
+InRecipeIntent what are the {ingredients|Item}
+InRecipeIntent what are the {steps|Item}
+InRecipeIntent tell me the {ingredients|Item}
+InRecipeIntent {start|Item} again
+HelpIntent what can I say
+StopIntent quit recipe
+StopIntent exit recipe

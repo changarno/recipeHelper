@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "intent": "StartRecipeIntent",
+      "slots": [
+        {
+          "name": "Food",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "InRecipeIntent",
+      "slots": [
+        {
+          "name": "Item",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "LaunchRequest"
+    },
+    {
+      "intent": "HelpIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "StopIntent",
+      "slots": [
+        {
+          "name": "stops",
+          "type": "EXIT_WORDS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
